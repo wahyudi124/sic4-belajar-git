@@ -1,1 +1,1 @@
-print("nama saya wahyudi")
+print("nama kami Somay")
